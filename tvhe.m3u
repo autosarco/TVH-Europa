@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-0 group-title="Example-Country" tvg-logo="https://example.com/tvlogo.png",Example TV
+http://example.com:9981/stream/channelid=123456789?profile=pass
