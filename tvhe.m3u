@@ -57,3 +57,13 @@ http://94.21.17.223:9981/stream/channelid/966260730?profile=pass
 http://94.21.17.223:9981/stream/channelid/1122850950?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spektrum-hu.png",[TVHE] Spektrum 1080p
 http://94.21.17.223:9981/stream/channelid/838347581?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv4-hu.png",[TVHE] TV4 1080p
+http://94.21.17.223:9981/stream/channelid/1994492141?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/story4-hu.png",[TVHE] Story4 1080p
+http://94.21.17.223:9981/stream/channelid/1144589518?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/galaxy4-hu.png",[TVHE] Galaxy4 1080p
+http://94.21.17.223:9981/stream/channelid/979094727?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/film4-hu.png",[TVHE] Film4 576p
+http://94.21.17.223:9981/stream/channelid/89669072?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/match4-hu.png",[TVHE] Match4 1080p
+http://94.21.17.223:9981/stream/channelid/169627366?profile=pass
