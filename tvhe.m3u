@@ -67,3 +67,33 @@ http://94.21.17.223:9981/stream/channelid/979094727?profile=pass
 http://94.21.17.223:9981/stream/channelid/89669072?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/match4-hu.png",[TVHE] Match4 1080p
 http://94.21.17.223:9981/stream/channelid/169627366?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/filmbox-hu.png",[TVHE] [Old logo] FILMBOX+ one 1080p
+http://94.21.17.223:9981/stream/channelid/836823801?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/atv-hu.png",[TVHE] ATV 1080p
+http://94.21.17.223:9981/stream/channelid/2054795651?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/life-tv-hu.png",[TVHE] Life TV 1080p
+http://94.21.17.223:9981/stream/channelid/600341420?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/dikh-tv-hu.png",[TVHE] Dikh TV 1080p
+http://94.21.17.223:9981/stream/channelid/1988647940?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/amc-hu.png",[TVHE] AMC HU 1080p
+http://94.21.17.223:9981/stream/channelid/1758052455?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/ozone-tv-hu.png",[TVHE] Ozone TV 1080p
+http://94.21.17.223:9981/stream/channelid/886265121?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/national-geographic-wild-it.png",[TVHE] Nat Geo Wild HU 1080p
+http://94.21.17.223:9981/stream/channelid/743216390?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/history-channel-it.png",[TVHE] History 1080p
+http://94.21.17.223:9981/stream/channelid/1920206436?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/travel-channel-uk.png",[TVHE] Travel Channel 1080p
+http://94.21.17.223:9981/stream/channelid/885087382?profile=pass
+#EXTINF:-0 group-title="Hungary",[TVHE] [TTX] Viasat2 576p
+http://94.21.17.223:9981/stream/channelid/1677321721?profile=pass
+#EXTINF:-0 group-title="Hungary" ,[TVHE] [TTX] Viasat Film 576p
+http://94.21.17.223:9981/stream/channelid/1215676509?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/axn-hu.png",[TVHE] [TTX] AXN 1080p
+http://94.21.17.223:9981/stream/channelid/25950650?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/minimax-hu.png",[TVHE] Minimax 576p
+http://94.21.17.223:9981/stream/channelid/1904720175?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/magyar-mozi-tv-hu.png",[TVHE] Magyar Mozi TV 576p
+http://94.21.17.223:9981/stream/channelid/698141438?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/film-mania-ro.png",[TVHE] Film Mánia 1080p
+http://94.21.17.223:9981/stream/channelid/822371791?profile=pass
