@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-0 group-title="Hungary" tvg-logo="https://example.com/tvlogo.png",[TVHE] M1 576p
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/m1-hu.png",[TVHE] M1 576p
 http://example.com:9981/stream/channelid=123456789?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/m1-hu.png",[TVHE] [TTX] M1 1080p
 http://94.21.17.223:9981/stream/channelid/984922418?profile=pass
@@ -7,3 +7,13 @@ http://94.21.17.223:9981/stream/channelid/984922418?profile=pass
 http://94.21.17.223:9981/stream/channelid/1474006823?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/m4-sport-hu.png",[TVHE] [TTX] [Old logo] M4 Sport 1080p
 http://94.21.17.223:9981/stream/channelid/1485032170?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/duna-hu.png",[TVHE] [TTX] Duna 1080p
+http://94.21.17.223:9981/stream/channelid/197427221?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/duna-world-hu.png",[TVHE] [TTX] Duna World / M4 Sport+ 1080p
+http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/m5-hu.png",[TVHE] [TTX] M5 1080p
+http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/rtl-hu.png",[TVHE] [DVBS] RTL HU 1080p
+http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://github.com/tv-logo/tv-logos/blob/d32e347bb7c4c640dceec23957802ad9182f58a6/countries/hungary/tv2-hu.png",[TVHE] [TTX] TV2 1080p
+http://94.21.17.223:9981/stream/channelid/1240089466?profile=pass
