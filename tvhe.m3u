@@ -13,7 +13,25 @@ http://94.21.17.223:9981/stream/channelid/197427221?profile=pass
 http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png",[TVHE] [TTX] M5 1080p
 http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass
-#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png",[TVHE] [DVBS] RTL HU 1080p
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png",[TVHE] [DVB SUB] RTL HU 1080p
 http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png",[TVHE] [TTX] TV2 1080p
 http://94.21.17.223:9981/stream/channelid/1240089466?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-super-hu.png",[TVHE] Super TV2 1080p
+http://94.21.17.223:9981/stream/channelid/1148630028?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/prime-hu.png",[TVHE] [TTX] Prime 1080p
+http://94.21.17.223:9981/stream/channelid/205924714?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/moziverzum-hu.png",[TVHE] Moziverzum 576p
+http://94.21.17.223:9981/stream/channelid/1070816965?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/jocky-tv-hu.png",[TVHE] Jocky TV 576p
+http://94.21.17.223:9981/stream/channelid/281454826?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/izaura-tv-hu.png",[TVHE] Izaura TV 576p
+http://94.21.17.223:9981/stream/channelid/2002656064?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-sef-hu.png",[TVHE] TV2 Séf 576p
+http://94.21.17.223:9981/stream/channelid/2135567331?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-kids-hu.png",[TVHE] TV2 Kids 576p
+http://94.21.17.223:9981/stream/channelid/979813027?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-comedy-hu.png",[TVHE] TV2 Comedy 576p
+http://94.21.17.223:9981/stream/channelid/1612404241?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/fem3-hu.png",[TVHE] FEM3 576p
+http://94.21.17.223:9981/stream/channelid/237760902?profile=pass
