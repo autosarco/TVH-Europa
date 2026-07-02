@@ -15,6 +15,14 @@ http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass
 http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png",[TVHE] [DVB SUB] RTL HU 1080p
 http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-ketto-hu.png",[TVHE] RTL KETTŐ 1080p
+http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-harom-hu.png",[TVHE] RTL HÁROM 1080p
+http://94.21.17.223:9981/stream/channelid/1395685967?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-gold-hu.png",[TVHE] RTL Gold 576p
+http://94.21.17.223:9981/stream/channelid/1353866233?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/sorozat-plus-hu.png",[TVHE] Sorozat+ 576p
+http://94.21.17.223:9981/stream/channelid/1235570618?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-hu.png",[TVHE] [TTX] TV2 1080p
 http://94.21.17.223:9981/stream/channelid/1240089466?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/tv2-super-hu.png",[TVHE] Super TV2 1080p
@@ -35,3 +43,7 @@ http://94.21.17.223:9981/stream/channelid/979813027?profile=pass
 http://94.21.17.223:9981/stream/channelid/1612404241?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/fem3-hu.png",[TVHE] FEM3 576p
 http://94.21.17.223:9981/stream/channelid/237760902?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-1-hu.png",[TVHE] Spíler 1 1080p
+http://94.21.17.223:9981/stream/channelid/1827310751?profile=pass
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/spiler-2-hu.png",[TVHE] Spíler 2 1080p
+http://94.21.17.223:9981/stream/channelid/1638454442?profile=pass
