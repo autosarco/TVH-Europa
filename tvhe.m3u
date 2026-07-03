@@ -109,3 +109,5 @@ http://82.218.39.80:9981/stream/channelid/704732520?profile=pass
 http://82.218.39.80:9981/stream/channelid/1619957452?profile=pass
 #EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/sat1-osterreich-at.png",[TVHE] [TTX] Sat 1 576p
 http://82.218.39.80:9981/stream/channelid/301427848?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/rtl-de.png",[TVHE] [TTX] RTL AT 576p
+http://82.218.39.80:9981/stream/channelid/1721462828?profile=pass
