@@ -97,3 +97,9 @@ http://94.21.17.223:9981/stream/channelid/1904720175?profile=pass
 http://94.21.17.223:9981/stream/channelid/698141438?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/romania/film-mania-ro.png",[TVHE] Film Mánia 1080p
 http://94.21.17.223:9981/stream/channelid/822371791?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf1-at.png",[TVHE] [TTX] ORF 1 720p
+http://82.218.39.80:9981/stream/channelid/597852990?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf2-at.png",[TVHE] [TTX] ORF 2 720p
+http://82.218.39.80:9981/stream/channelid/2024829538?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf3-at.png",[TVHE] [TTX] ORF 3 720p
+http://82.218.39.80:9981/stream/channelid/1940984106?profile=pass
