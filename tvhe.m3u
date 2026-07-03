@@ -103,3 +103,9 @@ http://82.218.39.80:9981/stream/channelid/597852990?profile=pass
 http://82.218.39.80:9981/stream/channelid/2024829538?profile=pass
 #EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/orf3-at.png",[TVHE] [TTX] ORF 3 720p
 http://82.218.39.80:9981/stream/channelid/1940984106?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/puls4-at.png",[TVHE] [TTX] PULS 4 576p
+http://82.218.39.80:9981/stream/channelid/704732520?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/servus-tv-at.png",[TVHE] [TTX] ServusTV 1080p
+http://82.218.39.80:9981/stream/channelid/1619957452?profile=pass
+#EXTINF:-0 group-title="Austria" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/austria/sat1-osterreich-at.png",[TVHE] [TTX] Sat 1 576p
+http://82.218.39.80:9981/stream/channelid/301427848?profile=pass
