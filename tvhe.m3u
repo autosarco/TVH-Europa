@@ -13,7 +13,7 @@ http://94.21.17.223:9981/stream/channelid/197427221?profile=pass
 http://94.21.17.223:9981/stream/channelid/1804581133?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m5-hu.png",[TVHE] [TTX] M5 1080p
 http://94.21.17.223:9981/stream/channelid/1129642371?profile=pass
-#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png",[TVHE] [DVB SUB] RTL HU 1080p
+#EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-hu.png",[TVHE] [TTX] RTL HU 1080p
 http://94.21.17.223:9981/stream/channelid/1268791284?profile=pass
 #EXTINF:-0 group-title="Hungary" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/rtl-ketto-hu.png",[TVHE] RTL KETTŐ 1080p
 http://94.21.17.223:9981/stream/channelid/1573183651?profile=pass
