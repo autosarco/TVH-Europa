@@ -12,4 +12,7 @@ You are allowed to take links from our playlist, as we do not own them.
 To contribute, please DM me on Discord: @aut0sarco
 
 
+We have also made a Discord server, come join: https://discord.gg/Jhq23cSCz5
+
+
 Have fun with TVHE!
